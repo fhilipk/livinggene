@@ -26,6 +26,10 @@ p {
 	
 }
 
+.tagline{
+    color: white;
+}
+
 .centered {
     text-align: center;
 }
